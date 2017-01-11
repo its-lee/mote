@@ -1,2 +1,2 @@
 # mote
-Simple public note database.
+Simple public note database using PHP.
